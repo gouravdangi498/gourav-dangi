@@ -1,2 +1,3 @@
-# gourav-dangi
-my first git repository
+# Gourav-dangi
+My first git Repository
+Something new;
